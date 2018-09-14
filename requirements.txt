@@ -1,0 +1,7 @@
+future
+mxnet
+Pillow
+glob
+cv2
+csv
+scipy
